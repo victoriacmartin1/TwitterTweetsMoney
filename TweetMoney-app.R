@@ -184,10 +184,10 @@ library(twitteR)
 library(ROAuth)
 library(httr)
 
-key = 'OPCv1dpXBAWnEz4QoSPWq2HSG'
-secret = 'haoIdlMfG1XhRwkInRjYy1efC7SgIFrJV6GnB885eYWYYK0ayu'
-token = '909960169945272320-nrf7IeyXprJfyjMznh5GcWDAvO9GDid'
-tokensecret = 'vlX0XazZ1zpGReOmJfOqjhnUGu4bSD0KVBlezbjKZlTLh'
+key = ''
+secret = ''
+token = ''
+tokensecret = ''
 
 options(httr_oauth_cache=F)
 CONSUMER_KEY = key
